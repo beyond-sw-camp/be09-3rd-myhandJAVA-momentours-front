@@ -16,18 +16,4 @@
 
   </details>
 
-  <details>
-    <summary>아이디 찾기</summary>
-
-  <img src="docs/img/storyboard/일기/일기 등록.png">
-
-  </details>
-
-  <details>
-    <summary>비밀번호 찾기</summary>
-
-  <img src="docs/img/storyboard/일기/일기 수정.png">
-
-  </details>
-
 </details>
