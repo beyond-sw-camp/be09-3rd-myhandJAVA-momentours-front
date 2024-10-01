@@ -166,7 +166,7 @@
    </details>
 </details>
 </details>
-    </details>
+
     
   <details>
     <summary>마이페이지</summary>
@@ -182,9 +182,6 @@
       <img src="docs/img/storyboard/회원/마이페이지-수정됨.png">
   </details>
   
-</details>
-</details>
-
 <details>
   <summary>홈</summary>
 </details>
