@@ -176,6 +176,25 @@
 </details>
 
 <details>
+  <summary>홈</summary>
+     <details>
+    <summary>홈페이지</summary>
+  <details>
+    <summary>홈페이지 화면</summary>
+      <img src="docs/img/storyboard/회원/마이페이지.png">
+    
+  </details>
+
+  <details>
+    <summary>홈페이지 - 사이드바</summary>
+      <img src="docs/img/storyboard/홈페이지/홈페이지.png">
+      <img src="docs/img/storyboard/홈페이지/홈페이지-사이드바.png">
+  </details>
+  </details>
+   
+</details>
+
+<details>
   <summary>커플</summary>
 </details>
 
