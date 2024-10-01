@@ -173,9 +173,10 @@
   </details>
 
   <details>
-    <summary>마이페이지 정보 수지/홈페이지-사이드바.png">
+    <summary>마이페이지 정보 수정</summary>
+      <img src="docs/img/storyboard/회원/마이페이지-모달창.png">
+      <img src="docs/img/storyboard/회원/마이페이지-수정됨.png">
   </details>
-  
 </details>
 
 <details>
