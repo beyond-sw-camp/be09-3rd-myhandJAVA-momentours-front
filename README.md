@@ -182,6 +182,17 @@
 
 <details>
   <summary>홈</summary>
+
+  <details>
+    <summary>홈페이지</summary>
+      <img src="docs/img/storyboard/홈/홈페이지.png">
+  </details>
+
+  <details>
+    <summary>홈페이지 - 사이드바</summary>
+      <img src="docs/img/storyboard/홈/홈페이지-사이드바.png">
+  </details>
+  
 </details>
 
 <details>
