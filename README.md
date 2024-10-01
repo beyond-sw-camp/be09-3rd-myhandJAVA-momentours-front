@@ -139,7 +139,7 @@
 
   </details>
 
-  <details>
+ - <details>
     <summary>로그인</summary>
     
   <details>
@@ -164,7 +164,7 @@
   </details>
     </details>
     
-  <details>
+ - <details>
     <summary>마이페이지</summary>
   <details>
     <summary>마이페이지 화면</summary>
