@@ -1,10 +1,10 @@
 <details>
   <summary>회원</summary>
 
-
   <details>
     <summary>회원가입</summary>
   <details>
+    
     <summary>회원가입 화면</summary>
       <img src="docs/img/storyboard/회원/일기 조회 - 일기 있는 버전.png">
   </details>
