@@ -40,7 +40,8 @@
   <img src="docs/img/storyboard/회원/로그인실패.png">
   
   </details>
-  
+    </details>
+    
   <details>
     <summary>마이페이지</summary>
   <details>
