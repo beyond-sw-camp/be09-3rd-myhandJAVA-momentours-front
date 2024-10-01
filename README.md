@@ -120,6 +120,76 @@
 
 <details>
   <summary>회원</summary>
+
+  <details>
+    <summary>회원가입</summary>
+  <details>
+    <summary>회원가입 화면</summary>
+      <img src="docs/img/storyboard/회원/회원가입.png">
+  </details>
+
+  <details>
+    <summary>회원가입 - 성공</summary>
+      <img src="docs/img/storyboard/회원/회원가입성공.png">
+  </details>
+  </details>
+
+  <details>
+    <summary>로그인</summary>
+    
+  <details>
+    <summary>로그인 화면</summary>
+
+  <img src="docs/img/storyboard/회원/로그인화면.png">
+  
+  </details>
+
+  <details>
+    <summary>로그인 성공</summary>
+
+  <img src="docs/img/storyboard/회원/로그인성공.png">
+  
+  </details>
+
+  <details>
+    <summary>로그인 실패</summary>
+
+  <img src="docs/img/storyboard/회원/로그인실패.png">
+  
+  </details>
+    </details>
+    
+  <details>
+    <summary>마이페이지</summary>
+  <details>
+    <summary>마이페이지 화면</summary>
+      <img src="docs/img/storyboard/회원/마이페이지.png">
+    
+  </details>
+
+  <details>
+    <summary>마이페이지 정보 수정</summary>
+      <img src="docs/img/storyboard/회원/마이페이지-모달창.png">
+      <img src="docs/img/storyboard/회원/마이페이지-수정됨.png">
+  </details>
+  </details>
+</details>
+
+<details>
+  <summary>홈</summary>
+
+  <details>
+    <summary>홈페이지 화면</summary>
+      <img src="docs/img/storyboard/회원/마이페이지.png">
+    
+  </details>
+
+  <details>
+    <summary>홈페이지 - 사이드바</summary>
+      <img src="docs/img/storyboard/홈페이지/홈페이지.png">
+      <img src="docs/img/storyboard/홈페이지/홈페이지-사이드바.png">
+  </details>
+   
 </details>
 
 <details>
@@ -547,5 +617,6 @@
 
 > **장민근**:언제나 자신의 몫을 해내는 든든한 팀원이 바로 이우진 팀원을 보고 하는 말이 아닐까 생각한다. 비록 모두가 프론트앤드 프로젝트가 처음이라 많이 어려워했지만 그럼에도 불구하고 자신의 기능뿐 아니라 공통 컴포넌트 개발에도 기여하며 팀원들이 프로젝트를 수월하게 진행하도록 하는데 큰 기여를 했다.
 > 
+
 
 
