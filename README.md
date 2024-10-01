@@ -177,7 +177,7 @@
       <img src="docs/img/storyboard/회원/마이페이지-모달창.png">
       <img src="docs/img/storyboard/회원/마이페이지-수정됨.png">
   </details>
-  
+  </details>
 </details>
 
 <details>
