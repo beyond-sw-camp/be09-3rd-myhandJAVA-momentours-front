@@ -118,7 +118,7 @@
 
 ## 4. 스토리보드
 <details>
-   <<summary>회원</summary>
+   <summary>회원</summary>
 
   <details>
     <summary>회원가입</summary>
